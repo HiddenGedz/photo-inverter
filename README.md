@@ -48,8 +48,3 @@ photo-inverter-project-en/
   requirements.txt
   README.md
 ```
-
-## Ideas to improve it (to look even better on a resume)
-- Add tests (`pytest`) for `ImageInverter`
-- Add batch processing for a whole folder
-- Add extra filters (grayscale/blur/contrast) as separate components
